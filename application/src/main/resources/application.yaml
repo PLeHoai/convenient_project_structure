@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: project-template
+
+
+server:
+  port: 30100
