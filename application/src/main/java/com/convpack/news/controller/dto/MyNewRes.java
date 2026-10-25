@@ -7,7 +7,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Setter
 @Getter
-public class ProductRes
+public class MyNewRes
 {
     private String id;
     private String name;

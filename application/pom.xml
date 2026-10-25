@@ -22,6 +22,10 @@
             <groupId>com.convpack</groupId>
             <artifactId>cvp-common</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.convpack</groupId>
+            <artifactId>cvp-security</artifactId>
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
