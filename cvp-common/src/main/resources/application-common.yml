@@ -1,0 +1,5 @@
+
+app:
+  datetime:
+    zone-offset: ${APP_DATETIME_ZONE_OFFSET}
+    prefix: ${APP_DATETIME_PREFIX}
